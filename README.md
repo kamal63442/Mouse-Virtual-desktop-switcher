@@ -1,5 +1,3 @@
-Certainly! Here's a documentation template for the provided code:
-
 # Virtual Desktop Automation Script
 
 The Virtual Desktop Automation Script is a Python script that enables automation of virtual desktop operations using mouse and keyboard inputs. It allows users to create new virtual desktops, switch between virtual desktops, and close active windows with simple mouse actions.
